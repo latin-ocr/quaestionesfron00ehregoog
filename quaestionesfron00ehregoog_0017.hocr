@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesfron00ehregoog_0017.png"; bbox 0 0 3175 5009; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 233 1602 1566 1981">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 233 1602 1566 1981">
+     <span class='ocr_line' id='line_1_1' title="bbox 233 1602 1566 1881; baseline -0.002 -69"><span class='ocrx_word' id='word_1_1' title='bbox 233 1602 237 1608; x_wconf 46' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 371 1689 752 1813; x_wconf 70' lang='lat' dir='ltr'>HENRIOO</span> <span class='ocrx_word' id='word_1_3' title='bbox 790 1605 1139 1813; x_wconf 73' lang='lat' dir='ltr'>JORDAN</span> <span class='ocrx_word' id='word_1_4' title='bbox 1397 1637 1401 1644; x_wconf 73' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1561 1874 1566 1881; x_wconf 9' lang='lat'><strong>¹</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 284 1912 1231 1981; baseline 0 -2"><span class='ocrx_word' id='word_1_6' title='bbox 284 1913 550 1980; x_wconf 55' lang='lat' dir='ltr'>mm</span> <span class='ocrx_word' id='word_1_7' title='bbox 571 1912 887 1980; x_wconf 53' lang='lat' dir='ltr'>mmmm</span> <span class='ocrx_word' id='word_1_8' title='bbox 910 1913 1231 1981; x_wconf 55' lang='lat' dir='ltr'>mmm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 369 2221 1140 2346">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 369 2221 1140 2346">
+     <span class='ocr_line' id='line_1_3' title="bbox 369 2221 1140 2346; baseline 0.001 -3"><span class='ocrx_word' id='word_1_9' title='bbox 369 2221 850 2345; x_wconf 78' lang='lat' dir='ltr'><strong>GUILIELMO</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 889 2223 1140 2346; x_wconf 80' lang='lat' dir='ltr'>RISOH</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 544 2446 967 2513">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 544 2446 967 2513">
+     <span class='ocr_line' id='line_1_4' title="bbox 544 2446 967 2513; baseline 0.005 -2"><span class='ocrx_word' id='word_1_11' title='bbox 544 2446 783 2513; x_wconf 77' lang='lat' dir='ltr'><strong>AVUNCULO</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 809 2447 967 2513; x_wconf 79' lang='lat' dir='ltr'>OPTIMO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1592 5009">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1592 5009">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1592 5009; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1592 5009; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
